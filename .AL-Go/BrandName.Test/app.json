@@ -1,0 +1,40 @@
+{
+  "id": "b8e1d3c7-4a52-4e9f-8c61-2f7a9d0e5b34",
+  "name": "Brand Name Tests",
+  "publisher": "Robosol Software UK Limited",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Automated tests for the Brand Name app.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "6c4f2a1e-8b3d-4f7a-9e25-1d0c7b5a3f81",
+      "name": "Brand Name",
+      "publisher": "Robosol Software UK Limited",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "name": "Library Assert",
+      "publisher": "Microsoft",
+      "version": "25.0.0.0"
+    },
+    {
+      "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
+      "name": "Tests-TestLibraries",
+      "publisher": "Microsoft",
+      "version": "25.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [ { "from": 50150, "to": 50199 } ],
+  "runtime": "14.0",
+  "target": "Cloud",
+  "features": [ "NoImplicitWith" ]
+}

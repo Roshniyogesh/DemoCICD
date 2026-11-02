@@ -1,0 +1,16 @@
+{
+    "folders":  [
+                    {
+                        "path":  ".AL-Go"
+                    },
+                    {
+                        "path":  "BrandName"
+                    },
+                    {
+                        "path":  "BrandName.Test"
+                    }
+                ],
+    "settings":  {
+
+                 }
+}

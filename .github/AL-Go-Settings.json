@@ -1,5 +1,12 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v10.0/.Modules/settings.schema.json",
   "type": "AppSource App",
-  "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main"
+  "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main",
+  "DeployToRobosol_DEMO": {
+    "EnvironmentType": "SaaS",
+    "EnvironmentName": "Robosol_DEMO",
+    "Branches": [ "main" ],
+    "ContinuousDeployment": true,
+    "Scope": "PTE"
+  }
 }

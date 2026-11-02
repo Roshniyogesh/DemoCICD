@@ -1,0 +1,26 @@
+{
+  "id": "6c4f2a1e-8b3d-4f7a-9e25-1d0c7b5a3f81",
+  "name": "Brand Name",
+  "publisher": "Robosol Software UK Limited",
+  "version": "1.0.0.0",
+  "brief": "Adds a Brand Name to items and carries it to sales order lines.",
+  "description": "Adds a Brand Name field to the Item Card. When an item is entered on a sales order line, its Brand Name is copied to the line.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [ { "from": 50100, "to": 50149 } ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "target": "Cloud",
+  "features": [ "NoImplicitWith", "TranslationFile" ]
+}
